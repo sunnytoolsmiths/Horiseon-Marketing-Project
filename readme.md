@@ -1,4 +1,4 @@
-# Assignment #1 Front end coding optimization 
+# Assignment #1 Front end coding refactor
 
 This repo is a source code of the 1st graded assignment for the UC Berkely coding bootcamp
 
