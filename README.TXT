@@ -1,28 +1,19 @@
-# Foobar
+# Assignment #1 Front end coding optimization 
 
-Foobar is a Python library for dealing with word pluralization.
+This repo is a source code of the 1st graded assignment for the UC Berkely coding bootcamp
 
-## Installation
+## Instruction
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+This is a private repo so please ask for permission to access the source code.
+The code comtains following two sections:
 
-```bash
-pip install foobar
+```index file
+This is the index file for the webpage to lay out the high level structure
+There are head, body and footer as the main components for the webpage. 
 ```
 
-## Usage
-
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
+```assets folder 
+assets folder include the css style sheet as well as the images used in the webpage
 ```
 
 ## Contributing
