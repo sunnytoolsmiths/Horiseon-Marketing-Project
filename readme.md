@@ -2,6 +2,12 @@
 
 This repo is a source code of the 1st graded assignment for the UC Berkely coding bootcamp
 
+It is a marketing project that improves the webpage for the company Horiseon.
+The mockup of the webpage as been included as follows. 
+![homepgae(.)](./assets/images/homepage.png)
+
+The website has been published at this site: https://sunnytoolsmiths.github.io/Horiseon-Marketing-Project/
+
 ## Instruction
 
 This is a private repo so please ask for permission to access the source code.
