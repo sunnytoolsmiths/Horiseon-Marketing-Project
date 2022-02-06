@@ -32,11 +32,9 @@ body {
     font-size: 20px;
 }
 
-
 .header div ul {
     list-style-type: none;
 }
-
 
 .header div ul li {
     display: inline-block;
@@ -72,9 +70,7 @@ h2 {
 }
 
 /*Consolidate the style for containers on the left side of the body*/
-.search-engine-optimization,
-.online-reputation-management,
-.social-media-marketing{
+.main-content{
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -84,14 +80,8 @@ h2 {
 }
 
 /*Consolidate the style for images on the left side of the body*/
-.search-engine-optimization img,
-.online-reputation-management img,
-.social-media-marketing img{
+.content img{
     max-height: 200px;
-}
-
-p {
-    font-size: 16px;
 }
 
 .float-left {
@@ -102,6 +92,10 @@ p {
 .float-right {
     float: right;
     margin-left: 25px;
+}
+
+p {
+    font-size: 16px;
 }
 
 /*The following block is the style for the container on the left of the body*/
@@ -123,18 +117,14 @@ h3 {
 }
 
 /*Consolidate the style for images on the right side of the body*/
-.benefit-lead img,
-.benefit-brand img,
-.benefit-cost img{
+.side-bar img{
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
 /*Consolidate the style for the containers on the right side of the body*/
-.benefit-lead,
-.benefit-brand,
-.benefit-cost{
+.side-bar{
     margin-bottom: 32px;
     color: #ffffff;
 }
