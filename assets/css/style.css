@@ -1,13 +1,16 @@
+/*This is a global style*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/*style the background of body*/
 body {
     background-color:  #d9dcd6;
 }
 
+/*Style the header*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -45,6 +48,7 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
+/*end the style of the header*/
 
 /*move hero section up to match with the order and organization of the webpage*/
 .hero {
@@ -84,12 +88,12 @@ h2 {
     max-height: 200px;
 }
 
-.float-left {
+.left-side-image {
     float: left;
     margin-right: 25px;
 }
 
-.float-right {
+.right-side-image {
     float: right;
     margin-left: 25px;
 }
